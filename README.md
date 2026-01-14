@@ -1,5 +1,5 @@
 # ThinkPad X270 Hackintosh — Custom Sleep & USB-Optimized EFI
-<img src="https://github.com/fahmin002/Thinkpad-X270-Hackintosh-EFI/ScreenShot.png" alt="Screen Shot" />
+<img src="[https://github.com/fahmin002/Thinkpad-X270-Hackintosh-EFI/ScreenShot.png](https://github.com/fahmin002/Thinkpad-X270-Hackintosh-EFI/blob/main/ScreenShot.png)" alt="Screen Shot" />
 
 This is my personal OpenCore Hackintosh EFI for the **Lenovo ThinkPad X270**, tuned for:
 
