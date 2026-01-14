@@ -28,7 +28,7 @@ Inspired by
 ---
 
 ## 📁 EFI FOLDER STRUCTURE
-
+```bash
 EFI/
 ├── BOOT/
 ├── OC/
@@ -48,6 +48,7 @@ EFI/
 | | ├── OpenRuntime.efi
 | | └── OpenCanopy.efi
 | └── config.plist
+```
 
 ## 🔌 USB MAPPING (USBToolBox + UTBMap)
 
